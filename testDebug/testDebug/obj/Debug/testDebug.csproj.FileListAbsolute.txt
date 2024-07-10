@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\Buoi1\testDebug\testDebug\bin\Debug\testDebug.exe.config
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\Buoi1\testDebug\testDebug\bin\Debug\testDebug.exe
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\Buoi1\testDebug\testDebug\bin\Debug\testDebug.pdb
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\Buoi1\testDebug\testDebug\obj\Debug\testDebug.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\Buoi1\testDebug\testDebug\obj\Debug\testDebug.exe
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\Buoi1\testDebug\testDebug\obj\Debug\testDebug.pdb
